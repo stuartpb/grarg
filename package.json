@@ -1,6 +1,6 @@
 {
   "name": "grarg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal, bring-your-own-logic command-line-argument parser",
   "main": "index.js",
   "scripts": {
