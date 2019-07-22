@@ -1,0 +1,36 @@
+{
+  "name": "grarg",
+  "version": "1.0.0",
+  "description": "A minimal, bring-your-own-logic command-line-argument parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartpb/grarg.git"
+  },
+  "keywords": [
+    "argument",
+    "args",
+    "option",
+    "parser",
+    "parsing",
+    "flags",
+    "cli",
+    "argv",
+    "getopt",
+    "options",
+    "command",
+    "command-line"
+  ],
+  "author": "Stuart P. Bentley <s@stuartpb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartpb/grarg/issues"
+  },
+  "homepage": "https://github.com/stuartpb/grarg#readme",
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}
