@@ -1,5 +1,5 @@
 const tape = require('tape');
-const grargs = require('../index.js');
+const grargs = require('../../index.js');
 
 const readmeArgv = "chug package --verbose --env production --images foo.png bar.png --rescale=50% huge.png --scripts --minify index.js helper.js update-and-push".split(' ');
 const readmeExpected = [

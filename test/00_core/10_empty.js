@@ -1,5 +1,5 @@
 const tape = require('tape');
-const grargs = require('../index.js');
+const grargs = require('../../index.js');
 
 tape('empty string', t => {
   t.plan(2);

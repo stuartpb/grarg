@@ -1,5 +1,5 @@
 const tape = require('tape');
-const grargs = require('../index.js');
+const grargs = require('../../index.js');
 
 // not-really-supported-but-nevertheless-defined edge case behaviors
 
